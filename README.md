@@ -15,5 +15,5 @@ Update the USER and PW variables to an active Twitter account so Selenium can lo
 This project runs a Chrome browser with Selenium. To execute the script:
 
 * Download an appropriate driver
-* * Chrome Drivers can be downloaded here: https://chromedriver.chromium.org/downloads
+  * Chrome Drivers can be downloaded here: https://chromedriver.chromium.org/downloads
 * Update chrome_driver_path variable
