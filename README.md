@@ -2,6 +2,12 @@
 
 Tweets a complaint if internet speed is below promised levels
 
+```
+Note: I am aware this project could use considerable refactoring to make it more robust, implement OOP, etc. 
+This was a training exercise uploaded as-is.
+I am currently focused on exploring new concepts rather than perfecting what currently exists. 
+```
+
 ## How to Use
 Here's a short guide on how to get this running.
 
